@@ -113,7 +113,6 @@ java -cp .:mysql-connector.jar application.Program
 - Controle manual de conexões e recursos JDBC
 - Implementação explícita de SQL (sem ORM)
 - Aplicação de padrões de projeto utilizados no mercado
-- Estrutura preparada para evolução para frameworks como Spring Boot
 
 ---
 

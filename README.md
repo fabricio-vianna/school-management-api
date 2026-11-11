@@ -8,7 +8,7 @@ O projeto simula um cenário real de controle acadêmico, incluindo gerenciament
 
 ## 📌 Visão Geral
 
-O **SchoolMaster** foi projetado com uma arquitetura limpa e extensível, aplicando boas práticas comuns em sistemas backend corporativos:
+O **School Management** foi projetado com uma arquitetura limpa e extensível, aplicando boas práticas comuns em sistemas backend corporativos:
 
 - Separação em camadas (Application, Service, DAO, Domain)
 - Uso de **JDBC puro** para controle explícito de persistência

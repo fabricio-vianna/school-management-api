@@ -1,4 +1,4 @@
-# SchoolMaster 🎓
+# School Management 🎓
 
 API de gestão acadêmica desenvolvida em Java, com foco em organização em camadas, separação de responsabilidades e acesso a dados via JDBC utilizando o padrão DAO.
 
